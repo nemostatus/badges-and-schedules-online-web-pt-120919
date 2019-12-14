@@ -15,6 +15,7 @@ def assign_rooms(speakers)
   new_array = []
  speakers.each do |name| when rooms < 7 
  new_array.push("Hello, #{name} ! You'll be assigned to room #{rooms}!")
+ rooms +=1
     
     
   
