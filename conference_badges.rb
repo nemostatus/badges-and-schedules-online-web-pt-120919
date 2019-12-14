@@ -10,7 +10,7 @@ new_array
   end
 batch_badge_creator(["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus",  "Matz"])
 
-def assign_rooms(speakers)
+
 
 def assign_rooms(speakers)
   new = []
