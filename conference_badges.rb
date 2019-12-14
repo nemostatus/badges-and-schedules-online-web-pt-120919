@@ -9,4 +9,6 @@ def batch_badge_creator(array)
 new_array
   end
 batch_badge_creator(["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus",  "Matz"])
+
+def assign_rooms
   
