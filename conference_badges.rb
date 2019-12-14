@@ -11,5 +11,8 @@ new_array
 batch_badge_creator(["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus",  "Matz"])
 
 def assign_rooms(speakers)
-  
+  rooms = l
+  when rooms < 7
+    
+    
   
