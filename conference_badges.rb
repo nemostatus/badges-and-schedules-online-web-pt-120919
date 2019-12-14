@@ -14,7 +14,7 @@ def assign_rooms(speakers)
   rooms = l
   new_array = []
  speakers.each do |name| when rooms < 7 
- new_array.push
+ new_array.push()
     
     
   
