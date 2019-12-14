@@ -20,4 +20,13 @@ def assign_rooms(speakers)
   assign_rooms(["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"])
     
     def printer(attendees)
-  
+  def printer(attendees)
+  results = batch_badge_creator(attendees)
+  results.each do |a|
+    puts a 
+  end
+  result = assign_rooms(attendees)
+  result.each do |b|
+    puts b
+  end
+end
