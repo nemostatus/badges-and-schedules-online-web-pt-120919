@@ -17,7 +17,7 @@ def assign_rooms(speakers)
  new_array.push("Hello, #{name} ! You'll be assigned to room #{rooms}!")
  rooms +=1
  end
- assign_rooms()
+ assign_rooms(["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus",  "Matz"])
     
     
   
