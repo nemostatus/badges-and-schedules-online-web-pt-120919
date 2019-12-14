@@ -12,7 +12,8 @@ batch_badge_creator(["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus",  "Mat
 
 def assign_rooms(speakers)
   rooms = l
-  when rooms < 7
+  new_array = []
+ speakers.each do |name|
     
     
   
