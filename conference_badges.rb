@@ -19,5 +19,5 @@ def assign_rooms(speakers)
   end
   assign_rooms(["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"])
     
-    def printer
+    def printer(speakers)
   
